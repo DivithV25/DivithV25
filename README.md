@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer | Backend • Cybersecurity • Cloud • AI</h3>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/divith-v-a08781308/)">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/divith-v-a08781308/">LinkedIn</a> •
   <a href="https://github.com/divithv25">GitHub</a> •
   <a href="mailto:divithv25@gmail.com">Email</a>
 </p>
